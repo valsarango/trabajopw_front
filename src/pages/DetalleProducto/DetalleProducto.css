@@ -1,0 +1,24 @@
+.detalle-producto {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .detalle-producto img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .detalle-producto button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .detalle-producto button:hover {
+    background-color: #f0a500;
+  }
